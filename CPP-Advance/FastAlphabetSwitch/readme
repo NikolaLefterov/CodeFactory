@@ -1,0 +1,8 @@
+on the first line user enter a word for example abracadabra on the second line user enters number(may be more then one). the program does cyclically switch , where it put on the beginin all chars from the given number till the end, and after that puts the chars from begining till the given number in the end.
+Input: abracadabra
+       4 1 0
+Output:cadabraabra
+       bracadabraa 
+       abracadabra
+       
+NOTE: the program runs and switch also even if the numbers are greater then the string size(number % string size).
