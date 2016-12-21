@@ -1,0 +1,4 @@
+The program generate random numbers from 0 to 999 and check them if they are prime numbers.
+Since the prime numbers are only till 999 I had used eratosthenes algorithm , so that the test if  a the given random number is prime to be with complexity exactly 1.
+The user enters 2 numbers , first is the seed for srand and the second one is how many numbers to generates.
+Output is how many numbers are prime numbers.
