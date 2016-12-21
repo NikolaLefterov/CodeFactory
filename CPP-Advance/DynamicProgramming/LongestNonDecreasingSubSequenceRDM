@@ -1,0 +1,6 @@
+The program finds the longest non decreasing monotonic subsequence, using a dynamic programming algorithm.
+On first line is the size of the array.
+On the second line are the numbers of the sequence.
+Input: 6 
+       6 6 6 2 2 7
+Output: 4
