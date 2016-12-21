@@ -1,0 +1,2 @@
+The program needs to find a root of an equation in our case (x5 - ax - F%100) where F is my student number , with precision 20 digits after decimal point.
+To solve the equation its used BisectionMethod.
