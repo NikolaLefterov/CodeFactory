@@ -1,0 +1,7 @@
+user enters on one line chests with different weight , the program then group them in two arrays and switching elements so that it does all kind of sums, in order to find the smallest difference between truck1 cargo and truck2 cargo.
+Input: 3 2 3 2 2 77 89 23 90 11
+Output: 136 166
+Explanation: 11 + 90 + 23 + 2 + 2 + 3 + 2 + 3 = 136
+             89 + 77  = 166 
+             
+NOTE: the program always print first the lowest sum.
