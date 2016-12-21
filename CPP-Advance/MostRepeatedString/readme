@@ -1,0 +1,6 @@
+the program find which of the entered strings is most repeated.
+First element  is how many strings will have.
+After that is  the strings separated with whitespace.
+
+Input: 6 abc abc aaaa bbbb abc abc
+Output: abc
