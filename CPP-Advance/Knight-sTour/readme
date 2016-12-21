@@ -1,0 +1,4 @@
+This program  do a knights tour , the kngiht do a tour around the chessboard , where it can visit a cell only one time. 
+
+User enters three numbers , first one is the size of the chessboard( where the program works only with size <= 8).
+second and the third number are the cordinates from where the knight starts , where 1 1 is bottom left corner.
