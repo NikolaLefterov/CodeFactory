@@ -1,0 +1,1 @@
+The program generates a sequence of 10 000 random numbers from 0-999 with a srand function of my student number , then it checks them if they are a prime numbers.
