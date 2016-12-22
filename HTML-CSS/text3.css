@@ -1,0 +1,9 @@
+table tr td{
+		border-width:3px;	
+    border-style:inset;
+	border-color: white;
+	
+}
+table{
+	border-collapse:collapse;
+}

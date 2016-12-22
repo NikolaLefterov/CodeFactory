@@ -1,0 +1,45 @@
+table{
+    margin: 10px;
+    padding: 10px;
+    background: #808080;
+}
+
+thead th{
+    color:#ccc;
+    font-size: 19px;
+    
+}
+td{
+    color:#fff;
+    font-size:13px;
+    padding-bottom:7px;
+    padding-right:10px;
+}
+
+.imgOnline{
+	width:12px;
+	heigth:12px;
+}
+.nameOf{
+    color: #fafad4;
+    padding-bottom:0px;
+}
+.email{
+    color:#fafad4;
+}
+.activationMessage{
+    color: #ff0001;
+    
+}
+.time{
+    color: #ccc;
+}
+.last{
+    color: #ccc;
+}
+.post{
+    color:#fafad4;
+}
+.status{
+    color:#ffB402;
+}
