@@ -12,7 +12,7 @@ struct planet
 	long double razstoqnie;
 	double diametur;
 	double masa;
-	std::ofstream gabi;
+	std::ofstream PlanetStream;
 };
 int fillPlanet(planet &);
 int fillArrPlanet(planet *, unsigned);
@@ -208,14 +208,14 @@ int main()
 	do
 	{
 		cout << "Please select operations: " << endl;
-		cout << "1 – Enter data for the planets " << endl;
-		cout << "2 – Print the time for the light to travel from the sun to the planet: " << endl;
-		cout << "3 – Print the most heaviest planet " << endl;
-		cout << "4 – Print the planet with the smallest square " << endl;
-		cout << "5 – Print the most far away from the sun planet " << endl;
-		cout << "6 – Print the whole list of the planets " << endl;
-		cout << "7 – Print all planets sorted by the distance to the sun " << endl;
-		cout << "0 – Stop program " << endl;
+		cout << "1 â€“ Enter data for the planets " << endl;
+		cout << "2 â€“ Print the time for the light to travel from the sun to the planet: " << endl;
+		cout << "3 â€“ Print the most heaviest planet " << endl;
+		cout << "4 â€“ Print the planet with the smallest square " << endl;
+		cout << "5 â€“ Print the most far away from the sun planet " << endl;
+		cout << "6 â€“ Print the whole list of the planets " << endl;
+		cout << "7 â€“ Print all planets sorted by the distance to the sun " << endl;
+		cout << "0 â€“ Stop program " << endl;
 		cin >> menu;
 		cout << endl;
 		switch (menu)
